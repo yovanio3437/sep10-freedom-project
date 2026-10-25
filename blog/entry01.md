@@ -14,6 +14,12 @@ The skills i have achieved are how to google  and communication.
 #### How to google
 At first my google searches were bland and it was hard for me to find a good article or website to base my research on. The way i changed this was by making my google searches more descriptive to make the search smaller but to also find the exact thing i need. My searches went from "technology in soccer" to "What type of technology is used in soccer".
 
+#### Communication 
+This skill is very important for what i am doing in this project since i am working with a partner. We are sharing our research on the topic and comparing and contrasting while also making sure the stuff we find relate back to the topic of soccer. We are also texting eachother to see what is our next steps and who is doing what.
+
+### The next steps
+My next step is to research more and to connect it back to my topic.
+
 
 
 [Next](entry02.md)
