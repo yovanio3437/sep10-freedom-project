@@ -10,8 +10,11 @@ The websites i used to help me decide what to research was ["is-technology-ruini
 The engineering design process states that i am in stage 1 which is where we find the problem. The problem i want to help solve is **fix the human errors made by referees**. The next step in EDP is to do more research into the topic. Using websites and articles can be a great way to research but i will also be asking my classmates and friends on their view of this topic.
 
 ### Skills 
-The skills i have achieved are time management and communication.
-#### Time management 
+The skills i have achieved are how to google  and communication.
+#### How to google
+At first my google searches were bland and it was hard for me to find a good article or website to base my research on. The way i changed this was by making my google searches more descriptive to make the search smaller but to also find the exact thing i need. My searches went from "technology in soccer" to "What type of technology is used in soccer".
+
+
 
 [Next](entry02.md)
 
