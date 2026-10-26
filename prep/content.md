@@ -16,7 +16,7 @@ Topic: **X**
   * Live notifications
   * Player ratings
   * League standings 
-  * [image text](image URL)
+  * [Fotmob Logo](https://www.fotmob.com/img/fotmob_icon_2017.png)
 
 ##### Hardware
 * Tech
