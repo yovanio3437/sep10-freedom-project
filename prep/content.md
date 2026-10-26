@@ -8,8 +8,14 @@ Topic: **X**
 ## Part A: existing technology
 
 ##### Software
-* Tech
-  * Detail
+* Fotmob
+  * Live scoring
+  * Lineup information
+  * Transfer news
+  * Match schedule 
+  * Live notifications
+  * Player ratings
+  * League standings 
   * [image text](image URL)
 
 ##### Hardware
