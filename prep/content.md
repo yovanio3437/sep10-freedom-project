@@ -21,7 +21,7 @@ Topic: **X**
 * Techne futbol
   * Training drills
   * Training tracker
-  * skill test
+  * Skill test
   * Leaderboards
   * Coaching videos
   * Paid Monthly
