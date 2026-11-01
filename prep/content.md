@@ -17,6 +17,15 @@ Topic: **X**
   * Player ratings
   * League standings 
   * [Fotmob Logo](https://www.fotmob.com/img/fotmob_icon_2017.png)
+ 
+* Techne futbol
+  * Training drills
+  * Training tracker
+  * skill test
+  * Leaderboards
+  * Coaching videos
+  * Paid Monthly
+*
 
 ##### Hardware
 * Tech
