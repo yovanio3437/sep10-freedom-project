@@ -27,10 +27,10 @@ Topic: **X**
   * Paid Monthly
   * [Techne Futbol logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm_RWsRofIBoIYyGN0hAomJcQ5n-Ql2rAisTVKCzqe7w&s=10)
 * FIFA+
-* Selected free live matches
-* Replays
-* Documentarys
-* [FIFA+ logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxzLVGjopRBDG0_BOOshOi0lOTJuosb51VMMhBdv0THQ&s)
+  * Selected free live matches
+  * Replays
+  * Documentarys
+  * [FIFA+ logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxzLVGjopRBDG0_BOOshOi0lOTJuosb51VMMhBdv0THQ&s)
 
 
 ##### Hardware
