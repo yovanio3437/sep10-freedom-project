@@ -36,8 +36,7 @@ Topic: **X**
 ##### Hardware
 * IMU
   * Detail
-  * [IMU](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeaxIivgrt37SwVN7c3lVs1XZlQYBkpvaNRVR_12gTUQ&s=10)
-
+  * [IMU](https://meshworld.in/_astro/trionda-ball.Dsrzh6Sc_2m2bOi.webp)
 ## Part B: possible future technology
 * Idea
   * Detail
