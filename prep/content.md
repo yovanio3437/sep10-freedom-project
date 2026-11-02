@@ -34,9 +34,9 @@ Topic: **X**
 
 
 ##### Hardware
-* Tech
+* IMU
   * Detail
-  * [image text](image URL)
+  * [IMU](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeaxIivgrt37SwVN7c3lVs1XZlQYBkpvaNRVR_12gTUQ&s=10)
 
 ## Part B: possible future technology
 * Idea
