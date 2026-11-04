@@ -38,7 +38,8 @@ Topic: **X**
   * Detail
   * [IMU](https://meshworld.in/_astro/trionda-ball.Dsrzh6Sc_2m2bOi.webp)
 * Referee camera
-  * Detail
+  * [Ref camera](https://cdn3.sportngin.com/attachments/photo/0f24-196395643/RefCam_Website_Mind_Map__11_x_8.5_in__large.png)
+  * 
 ## Part B: possible future technology
 * Idea
   * Detail
