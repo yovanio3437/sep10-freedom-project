@@ -38,6 +38,7 @@ Topic: **X**
   * Detail
   * [IMU](https://meshworld.in/_astro/trionda-ball.Dsrzh6Sc_2m2bOi.webp)
 * Referee camera
+  * Detail
 ## Part B: possible future technology
 * Idea
   * Detail
