@@ -35,7 +35,7 @@ Topic: **X**
 
 ##### Hardware
 * IMU
-  * Detail
+  * Tracks the balls acceleration and movement in 3d
   * [IMU](https://meshworld.in/_astro/trionda-ball.Dsrzh6Sc_2m2bOi.webp)
 * Referee camera
   * [Ref camera](https://cdn3.sportngin.com/attachments/photo/0f24-196395643/RefCam_Website_Mind_Map__11_x_8.5_in__large.png)
