@@ -1,5 +1,5 @@
 # Entry 2: Technology research
-##### X/X/XX
+##### 11/22/26
 
 Text
 
