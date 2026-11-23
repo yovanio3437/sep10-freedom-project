@@ -1,4 +1,4 @@
-# Entry 2
+# Entry 2: Technology research
 ##### X/X/XX
 
 Text
