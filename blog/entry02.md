@@ -14,6 +14,12 @@ Doing all of this helped me improve my google searching skills.
 ## How to google
 From doing all the googling i have improved this skill that I talked about in my previous blog which really helped me speed up the process of looking for websites while also helping me find accurate and useful information.
 
+## EDP 
+I am in step 2 of EDP (engineering design process) which is the stage of brainstorming ideas. I am brainstorming the technology used in the futbol world already to further see what I could make that is different and solves a different problem or makes current technology even better.
+
+## The next steps
+My next steps is to see what i can do with this information to further fix issues.
+
 [Previous](entry01.md) | [Next](entry03.md)
 
 [Home](../README.md)
